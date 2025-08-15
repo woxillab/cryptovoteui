@@ -1,0 +1,1 @@
+{"userId":"sdgdsfgdfghfg","firstName":"william","lastName":"oxilus","nis":"234782387","dob":"2000-01-12","circonscription":"Ottawa","electionDay":"2000-01-24","address":"ewqtrwerteryretytreyrt"}
